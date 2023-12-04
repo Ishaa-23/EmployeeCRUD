@@ -66,7 +66,7 @@ class Configuration:
                  ) -> None:
         """Constructor
         """
-        self._base_path = "https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0" if host is None else host
+        self._base_path = "http://localhost:5283" if host is None else host
         """Default Base url
         """
         self.server_index = 0 if server_index is None and host is None else server_index
@@ -369,10 +369,6 @@ class Configuration:
         :return: An array of host settings
         """
         return [
-            {
-                'url': "https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0",
-                'description': "SwaggerHub API Auto Mocking",
-            },
             {
                 'url': "http://localhost:5283",
                 'description': "SwaggerHub API Auto Mocking",

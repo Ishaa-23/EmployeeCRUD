@@ -1,6 +1,6 @@
 # openapi_client.EmployeeApi
 
-All URIs are relative to *https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0*
+All URIs are relative to *http://localhost:5283*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
@@ -26,10 +26,10 @@ from openapi_client.models.employee import Employee
 from openapi_client.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0
+# Defining the host is optional and defaults to http://localhost:5283
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0"
+    host = "http://localhost:5283"
 )
 
 
@@ -87,10 +87,10 @@ from openapi_client.models.employee import Employee
 from openapi_client.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0
+# Defining the host is optional and defaults to http://localhost:5283
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0"
+    host = "http://localhost:5283"
 )
 
 
@@ -151,10 +151,10 @@ from openapi_client.models.employee import Employee
 from openapi_client.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0
+# Defining the host is optional and defaults to http://localhost:5283
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0"
+    host = "http://localhost:5283"
 )
 
 
@@ -216,10 +216,10 @@ from openapi_client.models.employee import Employee
 from openapi_client.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0
+# Defining the host is optional and defaults to http://localhost:5283
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0"
+    host = "http://localhost:5283"
 )
 
 
@@ -281,10 +281,10 @@ from openapi_client.models.employee import Employee
 from openapi_client.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0
+# Defining the host is optional and defaults to http://localhost:5283
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://virtserver.swaggerhub.com/ISHAAABDUL23/EmployeeAPI/1.0.0"
+    host = "http://localhost:5283"
 )
 
 
